@@ -25,10 +25,7 @@ namespace GITLab2
             InitializeComponent();
         }
 
-        private void btnShow_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
+        
 
         
 
