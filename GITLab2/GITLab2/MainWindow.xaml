@@ -23,6 +23,13 @@
                 Content="HELLO"
                 Click="btnHello_Click">
             </Button>
+            <Button
+                x:Name="btnDisPlay"
+                Height="35"
+                Width="100"
+                Content="DISPLAY"
+                Click="btnDisplay_Click">
+            </Button>
         </StackPanel>
 
     </Grid>

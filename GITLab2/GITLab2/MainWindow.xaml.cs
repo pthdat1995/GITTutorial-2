@@ -36,5 +36,10 @@ namespace GITLab2
         {
 
         }
+
+        private void btnDisplay_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("DISPLAY", "Click");
+        }
     }
 }
