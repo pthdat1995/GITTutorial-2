@@ -21,7 +21,7 @@
             Height="35"
             Width="100"
             Content="HELLO"
-            Click="btnHello">
+            Click="btnHello_Click">
             </Button>
         </StackPanel>
 

@@ -29,5 +29,12 @@ namespace GITLab2
         {
 
         }
+
+        
+
+        private void btnHello_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("HELLO", "CLICK");
+        }
     }
 }
