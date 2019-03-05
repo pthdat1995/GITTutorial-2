@@ -27,6 +27,13 @@ namespace GITLab2
 
         private void btnShow_Click(object sender, RoutedEventArgs e)
         {
+            MessageBox.Show("Thong bao", "Click");
+        }
+
+        
+
+        private void btnHello_Click(object sender, RoutedEventArgs e)
+        {
 
         }
     }
